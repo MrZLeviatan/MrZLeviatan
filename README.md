@@ -4,6 +4,7 @@
 <h2> My name is Nicolas but everyone calls me Leviatan ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://user-images.githubusercontent.com/117557162/268487720-4f57b49a-21f1-4b8c-97b7-92606de79979.png" width="280">
 
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> And who is this xenomorph?
 
 ````bash
 Un apasionado de la tecnología, la música,la literatura yel arte. 🚀🎸📚🎨
@@ -29,7 +30,6 @@ y menciona artistas o movimientos que te inspiran].
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=MrZLeviatan&show_icons=true&theme=dracula#gh-light-mode-only)](https://github.com/MrZLeviatan/github-readme-stats#gh-light-mode-only)
 
 
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
 
 
 
