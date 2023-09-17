@@ -1,7 +1,8 @@
 
-<p align="center">
-  <img <img src="https://giphy.com/gifs/this-is-fine-9M5jK4GXmD5o1irGrF" width="50" />
-</p>
+<img align='right' src="https://media.tenor.com/MYZgsN2TDJAAAAAC/this-is.gif" width="500">
+
+
+
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MrZLeviatan&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/MrZLeviatan/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=MrZLeviatan&show_icons=true&theme=dracula#gh-light-mode-only)](https://github.com/MrZLeviatan/github-readme-stats#gh-light-mode-only)
@@ -9,15 +10,8 @@
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/https://www.facebook.com/nicolas.cabreraserrani.3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nicolas.cabreraserrani.3/" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
 <br/>
 <a href="https://twitter.com/8bithemant">
