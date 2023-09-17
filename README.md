@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MrZLeviatan&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/MrZLeviatan/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=MrZLeviatan&show_icons=true&theme=dracula#gh-light-mode-only)](https://github.com/MrZLeviatan/github-readme-stats#gh-light-mode-only)
