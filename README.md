@@ -1,8 +1,8 @@
 <h2> My name is Nicolas but everyone calls me Leviatan ! <img src="https://media.tenor.com/gAsYZ5aWAMQAAAAi/league-of-legends-riot-games.gif" width="100"></h2>
 
-#### <img src="https://pa1.aminoapps.com/6933/9d4355cfa111a498daed8071aff7666c9bd44badr1-400-300_00.gif" width= "100" > And who is this xenomorph?
+#### And who is this xenomorph? <img src="https://pa1.aminoapps.com/6933/9d4355cfa111a498daed8071aff7666c9bd44badr1-400-300_00.gif" width= "100" > 
 
-<img align='right' src="https://user-images.githubusercontent.com/117557162/268487720-4f57b49a-21f1-4b8c-97b7-92606de79979.png" width="280">
+<img align='right' src="https://media.tenor.com/VL4vwyFjdOMAAAAi/league-of-legends-riot-games.gif" width="280">
 
 ````bash
 Un apasionado de la tecnología, la música,la literatura ydel arte. 🚀🎸📚🎨
