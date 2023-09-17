@@ -5,7 +5,7 @@
 <img align='right' src="https://user-images.githubusercontent.com/117557162/268487720-4f57b49a-21f1-4b8c-97b7-92606de79979.png" width="280">
 
 ````bash
-Un apasionado de la tecnología, la música,la literatura ydel arte. 🚀🎸📚🎨
+Un apasionado de la tecnología, la música,la literatura y del arte. 🚀🎸📚🎨
 
 💻 Programador en Ascenso:
 Me encanta codificar soluciones creativas y aprender sobre las últimas
@@ -24,8 +24,8 @@ Admiro la belleza en todas sus formas. Intento trasmitir este sentimiento en
 mi fronter, aunque a veces no lo logre :{
 ````
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MrZLeviatan&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/MrZLeviatan/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=MrZLeviatan&show_icons=true&theme=dracula#gh-light-mode-only)](https://github.com/MrZLeviatan/github-readme-stats#gh-light-mode-only)
+[![MrZLeviatan GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MrZLeviatan&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/MrZLeviatan/github-readme-stats#gh-dark-mode-only)
+[![MrZLeviatan GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=MrZLeviatan&show_icons=true&theme=dracula#gh-light-mode-only)](https://github.com/MrZLeviatan/github-readme-stats#gh-light-mode-only)
 
 
 
@@ -41,7 +41,7 @@ mi fronter, aunque a veces no lo logre :{
 
 <br/>
 <a href="https://www.facebook.com/nicolas.cabreraserrani.3/">
-  <img align="left" all="Hemant Joshi| Facebook" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />
+  <img align= "left"  width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />
   
 <a href="https://twitter.com/8bithemant">
   <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
