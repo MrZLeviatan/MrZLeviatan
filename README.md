@@ -14,15 +14,15 @@ tendencias tecnológicas.
 
 🎵 Rockero de Corazón:
 El rock es mi vida. Desde clásicos hasta indie, siempre estoy buscando nuevos
- sonidos y experiencias en conciertos en vivo.
+sonidos y experiencias en conciertos en vivo.
 
 📖 Amante de la Literatura:
-Los libros son mi refugio. [Menciona géneros o autores favoritos].
- La lectura me inspira y me transporta a otros mundos.
+Los libros son mi refugio, Desde el terror, ciencia ficcion hasta el romance.
+La lectura me inspira y me transporta a otros mundos.
 
 🎨 Explorador del Arte:
-Admiro la belleza en todas sus formas. [Habla sobre tu amor por el arte
-y menciona artistas o movimientos que te inspiran].
+Admiro la belleza en todas sus formas. Intento trasmitir este sentimiento en
+mi fronter, aunque a veces no lo logre :{
 ````
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MrZLeviatan&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/MrZLeviatan/github-readme-stats#gh-dark-mode-only)
