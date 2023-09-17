@@ -6,11 +6,11 @@
 
 
 ````bash
-Un apasionado de la tecnología, la música,la literatura yel arte. 🚀🎸📚🎨
+Un apasionado de la tecnología, la música,la literatura ydel arte. 🚀🎸📚🎨
 
 💻 Programador en Ascenso:
-Me encanta codificar soluciones creativas y aprender sobre las últimas tendencias
-tecnológicas.
+Me encanta codificar soluciones creativas y aprender sobre las últimas
+tendencias tecnológicas.
 
 🎵 Rockero de Corazón:
 El rock es mi vida. Desde clásicos hasta indie, siempre estoy buscando nuevos
