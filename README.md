@@ -2,8 +2,8 @@
 
 
 <h2> My name is Nicolas but everyone calls me Leviatan ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://user-images.githubusercontent.com/117557162/268487720-4f57b49a-21f1-4b8c-97b7-92606de79979.png" width="380">
 
-<img align='right' src="https://media.tenor.com/-kZOB16tELEAAAAC/this-is-fine-fire.gif" width="380">
 
 ````bash
 Un apasionado de la tecnología, la música,la literatura yel arte. 🚀🎸📚🎨
