@@ -1,6 +1,6 @@
 <h2> My name is Nicolas but everyone calls me Leviatan ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<img align='right' src="https://media.tenor.com/-kZOB16tELEAAAAC/this-is-fine-fire.gif" width="300">
+<img align='right' src="https://media.tenor.com/-kZOB16tELEAAAAC/this-is-fine-fire.gif" width="400">
 
 
 
