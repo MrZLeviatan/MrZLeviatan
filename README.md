@@ -40,6 +40,9 @@ mi fronter, aunque a veces no lo logre :{
 
 
 <br/>
+<a href="https://www.facebook.com/nicolas.cabreraserrani.3/">
+  <img align="left" all="Hemant Joshi| Facebook" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />
+  
 <a href="https://twitter.com/8bithemant">
   <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
