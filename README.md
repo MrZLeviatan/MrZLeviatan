@@ -24,6 +24,9 @@ Admiro la belleza en todas sus formas. Intento trasmitir este sentimiento en
 mi fronter, aunque a veces no lo logre :{
 ````
 
+<h2 align="right"> A little more about me...</h2>
+
+
 [![MrZLeviatan GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MrZLeviatan&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/MrZLeviatan/github-readme-stats#gh-dark-mode-only)
 [![MrZLeviatan GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=MrZLeviatan&show_icons=true&theme=dracula#gh-light-mode-only)](https://github.com/MrZLeviatan/github-readme-stats#gh-light-mode-only)
 
