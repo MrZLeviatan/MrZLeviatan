@@ -24,7 +24,14 @@ Admiro la belleza en todas sus formas. Intento trasmitir este sentimiento en
 mi fronter, aunque a veces no lo logre :{
 ````
 
+<h2 align= "right" 
+
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
+
+</h2>
+
+
+<img align='left' src="https://user-images.githubusercontent.com/117557162/268570319-d5b96d84-0f62-4455-a95e-db555cc55680.png" width="180">
 
 ```java
 
@@ -37,13 +44,20 @@ public static Persona characteristics (Codes code, Gender pronouns, Tools tools,
 
 System.out.println("""
 
-          challenge: "I am in the challenge of programming a functional life (That does not have bugs)"
+       challenge: "I am in the challenge of programming a functional life (That does not have bugs)"
 
       """);
 }
 ```
 
-<h2 align= "center" 
+<h2 align= "left" 
+
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Progress on github... 
+
+</h2>
+
+
+<h2 align= "left" 
 
 [![MrZLeviatan GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MrZLeviatan&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/MrZLeviatan/github-readme-stats#gh-dark-mode-only)
 [![MrZLeviatan GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=MrZLeviatan&show_icons=true&theme=dracula#gh-light-mode-only)](https://github.com/MrZLeviatan/github-readme-stats#gh-light-mode-only)
