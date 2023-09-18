@@ -61,7 +61,7 @@ System.out.println("""
 <a href="https://twitter.com/GameIsLife20">
   <img align="left"  Twitter" width="32px" src="https://img.freepik.com/iconos-gratis/gorjeo_318-177987.jpg" />
 </a>
-<a href="https://www.linkedin.com/in/hemant-j-85518a195/">
+<a href="https://open.spotify.com/user/s7likqvu58tnldicndjp0s0yf">
   <img align="left" alt="Linkedin" width="32px" src="https://cdn-icons-png.flaticon.com/512/81/81565.png" />
 </a>
 <a href="https://t.me/ihemantjoshi">
