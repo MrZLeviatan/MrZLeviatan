@@ -56,31 +56,30 @@ System.out.println("""
 
 <br/>
 <a href="https://www.facebook.com/nicolas.cabreraserrani.3/">
-  <img align= "left"  width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/2048px-Facebook_f_logo_%282019%29.svg.png" />
-  
+  <img align= "left"  width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" />
+  </a>
 <a href="https://twitter.com/GameIsLife20">
-  <img align="left"  Twitter" width="32px" src="https://img.freepik.com/iconos-gratis/gorjeo_318-177987.jpg" />
+  <img align="left"  Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" />
+</a>
+<a href="https://www.instagram.com/leviatan7v7/">
+  <img align="left" alt="Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://open.spotify.com/user/s7likqvu58tnldicndjp0s0yf">
   <img align="left" alt="Linkedin" width="32px" src="https://cdn-icons-png.flaticon.com/512/81/81565.png" />
 </a>
-<a href="https://t.me/ihemantjoshi">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/hemant.gz/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.reddit.com/user//">
-  <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+<a href="https://www.reddit.com/user/Mrz_Leviatan666">
+  <img align="left" alt=" Reddit" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
 <a href="https://leetcode.com//">
-  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  <img align="left" alt="Leetcode" width="32px" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/github.svg" />
 </a>
 <a href="https://www.codechef.com/users/hemant_x">
   <img align="left" alt=" Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=8bithemant.8bithemant)
+https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/github.svg
+
+
 
 <br />
 
