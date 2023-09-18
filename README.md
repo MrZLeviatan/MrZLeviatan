@@ -24,7 +24,25 @@ Admiro la belleza en todas sus formas. Intento trasmitir este sentimiento en
 mi fronter, aunque a veces no lo logre :{
 ````
 
-<h2 align="right"> A little more about me...</h2>
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
+
+```java
+
+public static Persona characteristics (Codes code, Gender pronouns, Tools tools, DataBase dataBase) {
+  pronouns = "He" , "his";
+  code.add(Java, Python, Javascript, HTML, CSS);
+  tools.add(JavaFx, Apache Maven, Intellij IDEA, Scene Builder);
+  dataBase.add(SQL Server, MySQL);
+  techCommunitie.clear();
+
+System.out.println("""
+
+          challenge: "I am in the challenge of programming a functional life (That does not have bugs)"
+
+      """);
+}
+```
+
 
 
 [![MrZLeviatan GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MrZLeviatan&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/MrZLeviatan/github-readme-stats#gh-dark-mode-only)
