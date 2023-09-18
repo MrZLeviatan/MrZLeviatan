@@ -60,21 +60,23 @@ System.out.println("""
 
 </h2>
 
-<h2 align= "center" 
+<h3 align= "center" 
 
 [![MrZLeviatan GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MrZLeviatan&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/MrZLeviatan/github-readme-stats#gh-dark-mode-only)
 [![MrZLeviatan GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=MrZLeviatan&show_icons=true&theme=dracula#gh-light-mode-only)](https://github.com/MrZLeviatan/github-readme-stats#gh-light-mode-only)
 
-</h2>
+</h3>
 
 
 <!--Redes Sociales-->
 
-<h3 align="center" 
+<h2 align="center" 
 
-  #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Connect with me:
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Connect with me:
   
-  </h3>
+</h2>
+
+<h3 align= "center"
   
 [![Facebook Badge](https://img.shields.io/badge/-@__Nicolas.A-1ca0f1?style=flat&labelColor=1ca0f1&logo=Facebook&logoColor=white&link=https://www.facebook.com/nicolas.cabreraserrani.3/)](https://www.facebook.com/nicolas.cabreraserrani.3/)
 [![Twitter Badge](https://img.shields.io/badge/-@__MrZLeviatan-grey?=flat&labelColor=grey&logo=twitter&logoColor=whitek&link=https://twitter.com/_jesslim)](https://twitter.com/GameIsLife20)
@@ -83,6 +85,5 @@ System.out.println("""
 [![Reddit Badge](https://img.shields.io/badge/-@__Mrz__Leviatan666-orange?style=flat&logo=reddit&logoColor=black&link=https://www.reddit.com/user/Mrz_Leviatan666)](https://www.reddit.com/user/Mrz_Leviatan666)
 [![Github Badge](https://img.shields.io/badge/-@__MrZLeviatan-black?style=flat&logo=github&logoColor=white&link=https://github.com/MrZLeviatan)](https://github.com/MrZLeviatan)
 
-
-
+</h3>
 
