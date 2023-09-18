@@ -62,27 +62,39 @@ System.out.println("""
 
 </h2>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center" 
+
+  #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Connect with me:
+  
+  </h3>
+  
 <br/>
 
 <a href="https://www.facebook.com/nicolas.cabreraserrani.3/">
-  <img align= "left"  width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" />
+  <img align= "center" alt="Facebook" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" />
   </a>
 <a href="https://twitter.com/GameIsLife20">
-  <img align="left"  Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" />
+  <img align="center"  alt="Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" />
 </a>
 <a href="https://www.instagram.com/leviatan7v7/">
-  <img align="left" alt="Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="center" alt="Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://open.spotify.com/user/s7likqvu58tnldicndjp0s0yf">
-  <img align="left" alt="Spotify" width="32px" src="https://cdn-icons-png.flaticon.com/512/81/81565.png" />
+  <img align="center" alt="Spotify" width="32px" src="https://cdn-icons-png.flaticon.com/512/81/81565.png" />
 </a>
 <a href="https://www.reddit.com/user/Mrz_Leviatan666">
-  <img align="left" alt=" Reddit" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+  <img align="center" alt=" Reddit" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
 <a href="https://github.com/MrZLeviatan">
-  <img align="left" alt="Github" width="32px" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/github.svg" />
+  <img align="center" alt="Github" width="32px" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/github.svg" />
 </a>
 
 <br />
+
+[![MrZLeviatan GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MrZLeviatan&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/MrZLeviatan/github-readme-stats#gh-dark-mode-only)
+
+[![Facebook Badge](https://img.shields.io/badge/-@__Nicolas.A-1ca0f1?style=flat&labelColor=1ca0f1&logo=Facebook&logoColor=white&link=https://www.facebook.com/nicolas.cabreraserrani.3/)](https://www.facebook.com/nicolas.cabreraserrani.3/)
+[![Twitter Badge](https://img.shields.io/badge/-@__MrZLeviatan-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_jesslim)](https://twitter.com/GameIsLife20)
+[![Instagram Badge](https://img.shields.io/badge/-@jlim__slam-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/jlim_slam/)](https://instagram.com/jlim_slam)
+[![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:jessicalim813@gmail.com)
 
