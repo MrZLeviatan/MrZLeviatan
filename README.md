@@ -24,6 +24,9 @@ Admiro la belleza en todas sus formas. Intento trasmitir este sentimiento en
 mi fronter, aunque a veces no lo logre :{
 ````
 
+
+<!--Demostracion de cogido-->
+
 <h2 align= "right" 
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
@@ -49,6 +52,8 @@ System.out.println("""
 }
 ```
 
+<!--Progreso en github-->
+
 <h2 align= "left" 
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Progress on github... 
@@ -62,39 +67,22 @@ System.out.println("""
 
 </h2>
 
+
+<!--Redes Sociales-->
+
 <h3 align="center" 
 
   #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Connect with me:
   
   </h3>
   
-<br/>
-
-<a href="https://www.facebook.com/nicolas.cabreraserrani.3/">
-  <img align= "center" alt="Facebook" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" />
-  </a>
-<a href="https://twitter.com/GameIsLife20">
-  <img align="center"  alt="Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" />
-</a>
-<a href="https://www.instagram.com/leviatan7v7/">
-  <img align="center" alt="Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://open.spotify.com/user/s7likqvu58tnldicndjp0s0yf">
-  <img align="center" alt="Spotify" width="32px" src="https://cdn-icons-png.flaticon.com/512/81/81565.png" />
-</a>
-<a href="https://www.reddit.com/user/Mrz_Leviatan666">
-  <img align="center" alt=" Reddit" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
-<a href="https://github.com/MrZLeviatan">
-  <img align="center" alt="Github" width="32px" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/github.svg" />
-</a>
-
-<br />
-
-[![MrZLeviatan GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MrZLeviatan&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/MrZLeviatan/github-readme-stats#gh-dark-mode-only)
-
 [![Facebook Badge](https://img.shields.io/badge/-@__Nicolas.A-1ca0f1?style=flat&labelColor=1ca0f1&logo=Facebook&logoColor=white&link=https://www.facebook.com/nicolas.cabreraserrani.3/)](https://www.facebook.com/nicolas.cabreraserrani.3/)
-[![Twitter Badge](https://img.shields.io/badge/-@__MrZLeviatan-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_jesslim)](https://twitter.com/GameIsLife20)
-[![Instagram Badge](https://img.shields.io/badge/-@jlim__slam-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/jlim_slam/)](https://instagram.com/jlim_slam)
-[![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:jessicalim813@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@__MrZLeviatan-grey?=flat&labelColor=grey&logo=twitter&logoColor=whitek&link=https://twitter.com/_jesslim)](https://twitter.com/GameIsLife20)
+[![Instagram Badge](https://img.shields.io/badge/-@__leviatan7v7-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/leviatan7v7/)](https://www.instagram.com/leviatan7v7/)
+[![Spotify Badge](https://img.shields.io/badge/-@__MrX__Leviatan-green?style=flat&logo=spotify&logoColor=black&link=https://open.spotify.com/user/s7likqvu58tnldicndjp0s0yf)](https://open.spotify.com/user/s7likqvu58tnldicndjp0s0yf)
+[![Reddit Badge](https://img.shields.io/badge/-@__Mrz__Leviatan666-orange?style=flat&logo=reddit&logoColor=black&link=https://www.reddit.com/user/Mrz_Leviatan666)](https://www.reddit.com/user/Mrz_Leviatan666)
+[![Github Badge](https://img.shields.io/badge/-@__MrZLeviatan-black?style=flat&logo=github&logoColor=white&link=https://github.com/MrZLeviatan)](https://github.com/MrZLeviatan)
+
+
+
 
