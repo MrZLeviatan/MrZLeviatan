@@ -30,7 +30,6 @@ mi fronter, aunque a veces no lo logre :{
 
 </h2>
 
-
 <img align='left' src="https://user-images.githubusercontent.com/117557162/268570319-d5b96d84-0f62-4455-a95e-db555cc55680.png" width="180">
 
 ```java
@@ -56,19 +55,16 @@ System.out.println("""
 
 </h2>
 
-
-<h2 align= "left" 
+<h2 align= "center" 
 
 [![MrZLeviatan GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MrZLeviatan&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/MrZLeviatan/github-readme-stats#gh-dark-mode-only)
 [![MrZLeviatan GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=MrZLeviatan&show_icons=true&theme=dracula#gh-light-mode-only)](https://github.com/MrZLeviatan/github-readme-stats#gh-light-mode-only)
 
 </h2>
 
-
 <h3 align="left">Connect with me:</h3>
-
-
 <br/>
+
 <a href="https://www.facebook.com/nicolas.cabreraserrani.3/">
   <img align= "left"  width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" />
   </a>
@@ -79,21 +75,14 @@ System.out.println("""
   <img align="left" alt="Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://open.spotify.com/user/s7likqvu58tnldicndjp0s0yf">
-  <img align="left" alt="Linkedin" width="32px" src="https://cdn-icons-png.flaticon.com/512/81/81565.png" />
+  <img align="left" alt="Spotify" width="32px" src="https://cdn-icons-png.flaticon.com/512/81/81565.png" />
 </a>
 <a href="https://www.reddit.com/user/Mrz_Leviatan666">
   <img align="left" alt=" Reddit" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
-<a href="https://leetcode.com//">
-  <img align="left" alt="Leetcode" width="32px" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/github.svg" />
+<a href="https://github.com/MrZLeviatan">
+  <img align="left" alt="Github" width="32px" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/github.svg" />
 </a>
-<a href="https://www.codechef.com/users/hemant_x">
-  <img align="left" alt=" Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-</a>
-
-https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/github.svg
-
-
 
 <br />
 
