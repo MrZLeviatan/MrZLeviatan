@@ -56,13 +56,13 @@ System.out.println("""
 
 <br/>
 <a href="https://www.facebook.com/nicolas.cabreraserrani.3/">
-  <img align= "left"  width="32px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />
+  <img align= "left"  width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/2048px-Facebook_f_logo_%282019%29.svg.png" />
   
 <a href="https://twitter.com/GameIsLife20">
-  <img align="left" alt="Hemant Joshi| Twitter" width="32px" src="https://pbs.twimg.com/profile_images/1354502907643666435/CpGOlLK-_400x400.jpg" />
+  <img align="left"  Twitter" width="42px" src="https://cdn.icon-icons.com/icons2/2201/PNG/512/twitter_logo_circle_icon_134015.png" />
 </a>
 <a href="https://www.linkedin.com/in/hemant-j-85518a195/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Linkedin" width="32px" src="https://cdn-icons-png.flaticon.com/512/81/81565.png" />
 </a>
 <a href="https://t.me/ihemantjoshi">
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
