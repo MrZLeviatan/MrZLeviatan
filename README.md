@@ -59,7 +59,7 @@ System.out.println("""
   <img align= "left"  width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/2048px-Facebook_f_logo_%282019%29.svg.png" />
   
 <a href="https://twitter.com/GameIsLife20">
-  <img align="left"  Twitter" width="42px" src="https://cdn.icon-icons.com/icons2/2201/PNG/512/twitter_logo_circle_icon_134015.png" />
+  <img align="left"  Twitter" width="32px" src="https://img.freepik.com/iconos-gratis/gorjeo_318-177987.jpg" />
 </a>
 <a href="https://www.linkedin.com/in/hemant-j-85518a195/">
   <img align="left" alt="Linkedin" width="32px" src="https://cdn-icons-png.flaticon.com/512/81/81565.png" />
