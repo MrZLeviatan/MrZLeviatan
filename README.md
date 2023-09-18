@@ -52,20 +52,14 @@ System.out.println("""
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/https://www.facebook.com/nicolas.cabreraserrani.3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nicolas.cabreraserrani.3/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
 
 <br/>
 <a href="https://www.facebook.com/nicolas.cabreraserrani.3/">
-  <img align= "left"  width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />
+  <img align= "left"  width="32px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />
   
-<a href="https://twitter.com/8bithemant">
-  <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/GameIsLife20">
+  <img align="left" alt="Hemant Joshi| Twitter" width="32px" src="https://pbs.twimg.com/profile_images/1354502907643666435/CpGOlLK-_400x400.jpg" />
 </a>
 <a href="https://www.linkedin.com/in/hemant-j-85518a195/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
