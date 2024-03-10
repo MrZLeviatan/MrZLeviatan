@@ -5,7 +5,7 @@
 <img align='right' src="https://user-images.githubusercontent.com/117557162/268487720-4f57b49a-21f1-4b8c-97b7-92606de79979.png" width="280">
 
 ````bash
-Un apasionado de la tecnología, la música,la literatura y del arte. 🚀🎸📚🎨
+Un apasionado de la tecnología, la músicay la literatura. 🚀🎸📚🎨
 
 💻 Programador en Ascenso:
 Me encanta codificar soluciones creativas y aprender sobre las últimas
@@ -19,9 +19,6 @@ sonidos y experiencias en conciertos en vivo.
 Los libros son mi refugio, Desde el terror, ciencia ficcion hasta el romance.
 La lectura me inspira y me transporta a otros mundos.
 
-🎨 Explorador del Arte:
-Admiro la belleza en todas sus formas. Intento trasmitir este sentimiento en
-mi fronter, aunque a veces no lo logre :{
 ````
 
 
@@ -46,26 +43,27 @@ public static Persona characteristics (Codes code, Gender pronouns, Tools tools,
 
 System.out.println("""
 
-       challenge: "I am in the challenge of programming a functional life (That does not have bugs)"
+        challenge: I am in the challenge of programming a functional life (That does not have bugs)
 
-      """);
+                  """);
 }
 ```
 
 <!--Progreso en github-->
 
-<h2 align= "left" 
+<h2 align= "center" 
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Progress on github... 
 
 </h2>
 
-<h3 align= "center" 
+<h4 align = "center"
 
-[![MrZLeviatan GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MrZLeviatan&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/MrZLeviatan/github-readme-stats#gh-dark-mode-only)
-[![MrZLeviatan GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=MrZLeviatan&show_icons=true&theme=dracula#gh-light-mode-only)](https://github.com/MrZLeviatan/github-readme-stats#gh-light-mode-only)
 
-</h3>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrZLeviatan&show_icons=true&theme=dark)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=MrZLeviatan&show_icons=true&locale=en&layout=compact)]()
+
+
+</h4>
 
 
 <!--Redes Sociales-->
@@ -78,12 +76,17 @@ System.out.println("""
 
 <h3 align= "center"
   
-[![Facebook Badge](https://img.shields.io/badge/-@__Nicolas.A-1ca0f1?style=flat&labelColor=1ca0f1&logo=Facebook&logoColor=white&link=https://www.facebook.com/nicolas.cabreraserrani.3/)](https://www.facebook.com/nicolas.cabreraserrani.3/)
-[![Twitter Badge](https://img.shields.io/badge/-@__MrZLeviatan-grey?=flat&labelColor=grey&logo=twitter&logoColor=whitek&link=https://twitter.com/_jesslim)](https://twitter.com/GameIsLife20)
-[![Instagram Badge](https://img.shields.io/badge/-@__leviatan7v7-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/leviatan7v7/)](https://www.instagram.com/leviatan7v7/)
-[![Spotify Badge](https://img.shields.io/badge/-@__MrX__Leviatan-green?style=flat&logo=spotify&logoColor=black&link=https://open.spotify.com/user/s7likqvu58tnldicndjp0s0yf)](https://open.spotify.com/user/s7likqvu58tnldicndjp0s0yf)
-[![Reddit Badge](https://img.shields.io/badge/-@__Mrz__Leviatan666-orange?style=flat&logo=reddit&logoColor=black&link=https://www.reddit.com/user/Mrz_Leviatan666)](https://www.reddit.com/user/Mrz_Leviatan666)
-[![Github Badge](https://img.shields.io/badge/-@__MrZLeviatan-black?style=flat&logo=github&logoColor=white&link=https://github.com/MrZLeviatan)](https://github.com/MrZLeviatan)
+
+<a href="https://www.facebook.com/nicolas.cabreraserrano9/"><img src="https://img.shields.io/badge/@Nicolas.A-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/n.cs666/"><img src="https://img.shields.io/badge/@n.cs666-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/Mr_Leviatan6"><img src="https://img.shields.io/badge/@Mr.Leviatan-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://open.spotify.com/user/s7likqvu58tnldicndjp0s0yf"><img src="https://img.shields.io/badge/@Mr.Leviatan-03C75A?style=for-the-badge&logo=spotify&logoColor=FFFFFF" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.reddit.com/user/Mrz_Leviatan666/"><img src="https://img.shields.io/badge/@MrZ.Leviatan666-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.hackerearth.com/@nikis281002"><img src="https://img.shields.io/badge/@Nicolas.C-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/MrZLeviatan"><img src="https://img.shields.io/badge/@MrZLeviatan-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/22382518/nicolas-cabrera-serrano"><img src="https://img.shields.io/badge/@Nicolas.C-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://dev.to/mrzleviatan"><img src="https://img.shields.io/badge/@MrZLeviatan-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /> </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 </h3>
 
