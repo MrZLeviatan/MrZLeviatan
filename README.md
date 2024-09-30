@@ -1,69 +1,122 @@
 <h2> My name is Nicolas but everyone calls me Leviatan ! <img src="https://media.tenor.com/gAsYZ5aWAMQAAAAi/league-of-legends-riot-games.gif" width="100"></h2>
 
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> And who is this xenomorph? 
 
-<img align='right' src="https://user-images.githubusercontent.com/117557162/268487720-4f57b49a-21f1-4b8c-97b7-92606de79979.png" width="280">
 
-````bash
-Un apasionado de la tecnología, la músicay la literatura. 🚀🎸📚🎨
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> And who is this nigromante? 
 
-💻 Programador en Ascenso:
-Me encanta codificar soluciones creativas y aprender sobre las últimas
-tendencias tecnológicas.
-
-🎵 Rockero de Corazón:
-El rock es mi vida. Desde clásicos hasta indie, siempre estoy buscando nuevos
-sonidos y experiencias en conciertos en vivo.
-
-📖 Amante de la Literatura:
-Los libros son mi refugio, Desde el terror, ciencia ficcion hasta el romance.
-La lectura me inspira y me transporta a otros mundos.
-
-````
+<img align='left' src="https://i.postimg.cc/gkTZFgGv/IconGit.jpg" width="250">
 
 
 <!--Demostracion de cogido-->
 
-<h2 align= "right" 
-
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
-
-</h2>
-
-<img align='left' src="https://user-images.githubusercontent.com/117557162/268570319-d5b96d84-0f62-4455-a95e-db555cc55680.png" width="180">
-
 ```java
+public static Person characteristics (Gender pronouns, String name, Education education,
+                   String from, ArrayList<String> specialization, ArrayList<String> hobbies) {
 
-public static Persona characteristics (Codes code, Gender pronouns, Tools tools, DataBase dataBase) {
-  pronouns = "He" , "his";
-  code.add(Java, Python, Javascript, HTML, CSS);
-  tools.add(JavaFx, Apache Maven, Intellij IDEA, Scene Builder);
-  dataBase.add(SQL Server, MySQL);
-  techCommunitie.clear();
+  Person person = new Person();
+
+  person.setPronouns() = "He" , "his";
+  person.setName() = "Nicolas Cabrera S.";
+  person.setFrom() = "Colombia";
+  person.setEducation = [ "System's engineer" ]
+  person.getSpecialization.addAll( "Backend" , "Frontent" , "DataBase");
+  person.getHobbies.addAll( "Music" , "Cinema" , "Gaming" , "Literature and Comics"
+                              ,"Gym", "D&D" , "Mysticism");
 
 System.out.println("""
 
-        challenge: I am in the challenge of programming a functional life (That does not have bugs)
+        Challenge: I am in the challenge of programming a functional life... Oh create the T-800
 
                   """);
+
+return person;
 }
 ```
 
-<!--Progreso en github-->
 
-<h2 align= "center" 
+<h1 align = "right" >
+  
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> I code, therefore I exist...
 
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Progress on github... 
+</h1>
 
+<img align="right" src= "https://i.postimg.cc/1Xnh2Rmh/Soraka.png" >
+
+
+
+````bash
+An enthusiast of software and hardware, music, literature, and cinema.  👾 
+
+💻 Up-and-coming programmer:
+Im passionate about coding, skilled in multiple programming languages,
+and currently focused on 'Backend development', although Im equally strong
+in 'Frontend'. My goal is to build scalable, efficient apps—and, of course,
+be the creator of the T-800.
+
+🎸 Lover of music:
+Rock, Jazz, and Heavy Metal (and its variants) are part of who I am.
+I often play the guitar and aspire to one day perform at Wacken Open Air.
+Podt: Lemmy is my god.
+
+📖 Constant Reader:
+I must admit that I’m a fanatic for romance novels and horror; they make
+up a large part of who I am. From The Taxidermist to Pet Sematary.
+
+````
+
+
+<h2 align="center" 
+
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Tecnologies:
+  
 </h2>
+
+
+<img align='left' src="https://i.postimg.cc/bwzDX4tV/Celeste.png">
+
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaFx](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+
 
 <h4 align = "center"
 
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrZLeviatan&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrZLeviatan&show_icons=true&theme=dark)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=MrZLeviatan&show_icons=true&locale=en&layout=compact)]()
 
+---
 
 </h4>
+<br>
+
+
+
+<h2 align="center" 
+
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Stast:
+  
+</h2>
+
+
+<h6 align = "center">
+ <p><img src="https://github-readme-stats.vercel.app/api?username=MrZLeviatan&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="cxyfreedom" /></p>
+ <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=MrZLeviatan&theme=material-palenight&hide_border=false" alt="cxyfreedom" /></p>
+</h6>
 
 
 <!--Redes Sociales-->
