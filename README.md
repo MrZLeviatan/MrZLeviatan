@@ -49,7 +49,7 @@ return person;
 
 
 ````bash
-An enthusiast of software and hardware, music, literature, and cinema.  👾 
+An enthusiast of software and hardware, music, literature, and cinema. 👾 
 
 💻 Up-and-coming programmer:
 Im passionate about coding, skilled in multiple programming languages,
