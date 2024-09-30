@@ -9,9 +9,11 @@
 
 <!--Demostracion de cogido-->
 
-```java
-public static Person characteristics (Gender pronouns, String name, Education education,
-                   String from, ArrayList<String> specialization, ArrayList<String> hobbies) {
+```java                                                                       
+public static Person characteristics (Gender pronouns, String name,
+                                        Education education,  String from,
+                                              ArrayList<String> specialization,
+                                                      ArrayList<String> hobbies) {
 
   Person person = new Person();
 
@@ -25,7 +27,8 @@ public static Person characteristics (Gender pronouns, String name, Education ed
 
 System.out.println("""
 
-        Challenge: I am in the challenge of programming a functional life... Oh create the T-800
+        Challenge: I am in the challenge of programming a functional life...
+                                                            Oh create the T-800
 
                   """);
 
@@ -34,7 +37,8 @@ return person;
 ```
 
 
-<h1 align = "right" >
+
+<h1 align = "right" 
   
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> I code, therefore I exist...
 
@@ -49,9 +53,9 @@ An enthusiast of software and hardware, music, literature, and cinema.  👾 
 
 💻 Up-and-coming programmer:
 Im passionate about coding, skilled in multiple programming languages,
-and currently focused on 'Backend development', although Im equally strong
-in 'Frontend'. My goal is to build scalable, efficient apps—and, of course,
-be the creator of the T-800.
+and currently focused on 'Backend development', although Im equally
+strong in 'Frontend'. My goal is to build scalable, efficient apps—and,
+of course, be the creator of the T-800.
 
 🎸 Lover of music:
 Rock, Jazz, and Heavy Metal (and its variants) are part of who I am.
@@ -91,7 +95,7 @@ up a large part of who I am. From The Taxidermist to Pet Sematary.
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=black)
 
 
 <h4 align = "center"
