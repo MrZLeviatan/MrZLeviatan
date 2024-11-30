@@ -6,6 +6,7 @@
 
 <img align="left" src="https://github.com/user-attachments/assets/7cc3511b-a219-4f84-9db2-e49769359541" alt="IconGit" width="250">
 
+
 <!--Demostracion de cogido-->
 
 ```java                                                                       
@@ -43,7 +44,8 @@ return person;
 
 </h1>
 
-<img align="right" src= "https://i.postimg.cc/1Xnh2Rmh/Soraka.png" >
+
+<img align="right" src="https://github.com/user-attachments/assets/b60a3757-f9cf-4088-8b2d-395288f4b79d" alt="IconGit" width="350">
 
 
 
