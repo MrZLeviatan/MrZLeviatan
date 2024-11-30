@@ -77,7 +77,8 @@ up a large part of who I am. From The Taxidermist to Pet Sematary.
 </h2>
 
 
-<img align='left' src="https://i.postimg.cc/bwzDX4tV/Celeste.png">
+<img align='left' src="https://github.com/user-attachments/assets/7bf8435a-b0d4-4af1-bfa6-bf07d9cfe261" alt="IconGit" width="250">
+
 
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
