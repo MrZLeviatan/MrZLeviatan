@@ -4,8 +4,7 @@
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> And who is this nigromante? 
 
-<img align='left' src="https://i.postimg.cc/gkTZFgGv/IconGit.jpg" width="250">
-
+<img align="left" src="https://github.com/user-attachments/assets/7cc3511b-a219-4f84-9db2-e49769359541" alt="IconGit" width="250">
 
 <!--Demostracion de cogido-->
 
