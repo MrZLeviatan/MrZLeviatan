@@ -121,7 +121,6 @@ up a large part of who I am. From The Taxidermist to Pet Sematary.
 
 <h6 align = "center">
  <p><img src="https://github-readme-stats.vercel.app/api?username=MrZLeviatan&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="cxyfreedom" /></p>
- <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=MrZLeviatan&theme=material-palenight&hide_border=false" alt="cxyfreedom" /></p>
 </h6>
 
 
