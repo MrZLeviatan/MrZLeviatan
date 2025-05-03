@@ -10,26 +10,21 @@
 <!--Demostracion de cogido-->
 
 ```java                                                                       
-public static Person characteristics (Gender pronouns, String name,
-                                        Education education,  String from,
-                                              ArrayList<String> specialization,
-                                                      ArrayList<String> hobbies) {
+public static Person characteristics () {
 
   Person person = new Person();
 
-  person.setPronouns() = "He" , "his";
-  person.setName() = "Nicolas Cabrera S.";
-  person.setFrom() = "Colombia";
-  person.setEducation = [ "System's engineer" ]
-  person.getSpecialization.addAll( "Backend" , "Frontent" , "DataBase");
-  person.getHobbies.addAll( "Music" , "Cinema" , "Gaming" , "Literature and Comics"
+  person.setPronouns(new String[]{"He" , "his"});
+  person.setName("Nicolas Cabrera S.");
+  person.setFrom("Colombia");
+  person.setEducation(new ArrayList<>(List.of("System's engineer")))
+  person.getSpecialization().addAll( "Backend" , "Frontent" , "DataBase");
+  person.getHobbies().addAll( "Music" , "Cinema" , "Gaming" , "Literature and Comics"
                               ,"Gym", "D&D" , "Mysticism");
 
 System.out.println("""
-
         Challenge: I am in the challenge of programming a functional life...
                                                             Oh create the T-800
-
                   """);
 
 return person;
@@ -49,7 +44,7 @@ return person;
 
 
 
-````bash
+````
 An enthusiast of software and hardware, music, literature, and cinema. 👾 
 
 💻 Up-and-coming programmer:
