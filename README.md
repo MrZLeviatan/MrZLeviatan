@@ -130,14 +130,8 @@ Interested in Business Intelligence, Analytics and Data Engineering.
 </h2>
 
 
-<h6 align = "left">
+<h6 align = "center">
  <p><img src="https://github-stats-extended.vercel.app/api?username=MrzLeviatan&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="leviatan" /></p>
-</h6>
-
-
-<h6 align = "right">
-  <p><img src="https://github.com/MrZLeviatan/MrZLeviatan/blob/output/github-contribution-grid-snake.svg"
-  alt= "leviatan" /></p>
 </h6>
 
 
